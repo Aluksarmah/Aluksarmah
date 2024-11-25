@@ -4,11 +4,11 @@
 
 - 🔭 I’m currently working on **Front-End Development**
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **ReactJS**
 
 - 👯 Let's code together and build something awesome **Fornt-End Project!**
 
-- 💬 Ask me about **HTML5 And CSS3**
+- 💬 Ask me about **HTML5 CSS3 And JavaScript**
 
 - 📫 How to reach me **aluksarmah@gmail.com**
 
