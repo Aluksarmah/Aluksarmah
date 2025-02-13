@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **Front-End Development**
 
-- 🌱 I’m currently learning **ReactJS****And****Tailwind CSS**
+- 🌱 I’m currently learning **ReactJS** **And** **Tailwind CSS**
 
 - 👯 Let's code together and build something awesome **Fornt-End Project!**
 
